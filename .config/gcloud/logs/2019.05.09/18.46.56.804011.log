@@ -1,0 +1,23 @@
+2019-05-09 18:46:56,806 DEBUG    root            Loaded Command Group: [u'gcloud', u'auth']
+2019-05-09 18:46:56,809 DEBUG    root            Loaded Command Group: [u'gcloud', u'auth', u'application_default']
+2019-05-09 18:46:56,814 DEBUG    root            Loaded Command Group: [u'gcloud', u'auth', u'application-default', u'login']
+2019-05-09 18:46:56,817 DEBUG    root            Running [gcloud.auth.application-default.login] with arguments: []
+2019-05-09 18:46:58,749 INFO     ___FILE_ONLY___ Go to the following link in your browser:
+
+    https://accounts.google.com/o/oauth2/auth?redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&prompt=select_account&response_type=code&client_id=764086051850-6qr4p6gpi6hn506pt8ejuq83di341hur.apps.googleusercontent.com&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&access_type=offline
+
+
+
+2019-05-09 18:47:13,781 INFO     oauth2client.client Successfully retrieved access token
+2019-05-09 18:47:13,781 INFO     ___FILE_ONLY___ 
+Credentials saved to file: [/home/fern_vnat14/.config/gcloud/application_default_credentials.json]
+
+2019-05-09 18:47:13,782 INFO     ___FILE_ONLY___ 
+These credentials will be used by any library that requests
+Application Default Credentials.
+
+To generate an access token for other uses, run:
+  gcloud auth application-default print-access-token
+
+2019-05-09 18:47:13,783 INFO     root            Display format: "none"
+2019-05-09 18:47:13,785 DEBUG    root            SDK update checks are disabled.

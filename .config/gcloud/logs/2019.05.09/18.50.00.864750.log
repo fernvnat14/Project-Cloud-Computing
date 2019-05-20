@@ -1,0 +1,9 @@
+2019-05-09 18:50:00,866 DEBUG    root            Loaded Command Group: [u'gcloud', u'app']
+2019-05-09 18:50:01,041 DEBUG    root            Loaded Command Group: [u'gcloud', u'app', u'browse']
+2019-05-09 18:50:01,044 DEBUG    root            Running [gcloud.app.browse] with arguments: []
+2019-05-09 18:50:01,047 INFO     ___FILE_ONLY___ Did not detect your browser. Go to this link to view your app:
+
+2019-05-09 18:50:01,048 INFO     root            Display format: "value(url)"
+2019-05-09 18:50:01,048 INFO     ___FILE_ONLY___ https://air-quality-detection-234816.appspot.com
+
+2019-05-09 18:50:01,053 DEBUG    root            SDK update checks are disabled.

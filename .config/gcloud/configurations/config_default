@@ -1,0 +1,8 @@
+[core]
+account = fern.vnat14@gmail.com
+project = air-quality-detection-234816
+
+[compute]
+zone = us-central1-c
+region = us-central1
+
